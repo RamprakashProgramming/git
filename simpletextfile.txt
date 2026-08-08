@@ -1,0 +1,6 @@
+This is created in feature 2 branch.
+
+another line added
+
+This line edited in bug branch to check wheater it get confliect 
+while merge this to main branch
