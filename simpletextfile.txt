@@ -1,10 +1,12 @@
 This is created in feature 2 branch.
 
 another line added
+This is created in feature 2 branch.
+
+another line added
 
 This line edited in bug branch to check wheater it get confliect 
 while merge this to main branch
 
 Need to remove the confliect: main-->bug la irunthu data va bug ku pull pani
 athoda correction la modify pani marupadum bug-->main merge pannaum
-another line a cdded
